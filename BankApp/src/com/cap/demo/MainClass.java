@@ -8,12 +8,11 @@ public class MainClass {
 		greetings();
 		
 	}
-	
-	
+
 	public static void greetings(){
 		System.out.println("Your bank opperations");
 		System.out.println("welcome to all projects");
 		System.out.println("test");
 	}
-
+    
 }
